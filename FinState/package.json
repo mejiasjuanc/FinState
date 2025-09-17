@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "Webhook de WhatsApp para reenviar mensajes a Make",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
